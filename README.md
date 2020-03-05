@@ -4,12 +4,12 @@ This is a application for managing employees. It uses Node.js, MySQL and inquire
 
 It came with following fucntions:
 
-View all employees
-View employees by their role
-View employees by their department
-add employees, role or department
-delete employees, role or department
-Update employee's information
+* View all employees
+* View employees by their role
+* View employees by their department
+* Add employees, role or department
+* Delete employees, role or department
+* Update employee's information
 
 
 ![alt text](./sample.gif)
